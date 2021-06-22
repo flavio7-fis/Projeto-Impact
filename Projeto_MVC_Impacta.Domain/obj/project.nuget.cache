@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/mOmSR1ualrHYJQS3SPqClrRQGKSg1Z5K9auo38fA7XCeOyzdAKtkyXiD+h7h9K5Q0aw91gL9FlEuiaGhfjHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flavi\\source\\repos\\Projeto_MVC_Impacta\\Projeto_MVC_Impacta.Domain\\Projeto_MVC_Impacta.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flavi\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
